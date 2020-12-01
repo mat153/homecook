@@ -1,0 +1,24 @@
+
+.upload{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.upload > form{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: 25%;
+}
+
+button{
+    background: #892D2D;
+    box-shadow: inset 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    height: 15%;
+    color: #FFFFFF;
+    margin: 0 0.5em 0.5em 0.5em;
+}
